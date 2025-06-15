@@ -1,4 +1,6 @@
 *.txt
 *.js
 temp/
-# /temp
+/temp
+!test4.txt
+
